@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouahbi13&theme=algolia" alt="ouahbi13" /></p>
-<br>
+
 
 ## 🛠️ Languages and Tools:
 ### 👉 Programming Languages:
@@ -99,7 +97,6 @@ Here are some ideas to get you started:
 ## 📊 Github Stats:
 
 
-
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -124,4 +121,6 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouahbi13&layout=compact&theme=algolia" alt="ouahbi13" /></a> </p>
 
   
-  
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouahbi13&theme=algolia" alt="ouahbi13" /></p>
+<br>
