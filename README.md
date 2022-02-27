@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - :school: I am a `second year` `Data Science Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - :technologist: I'm passionate about Machine Learning and Deep Learning.
 - :computer: I'm currently into Competitive Programming.
-- :student: I’m currently learning: `Data Science` and `React.js` and `Node.js`.
+- :student: I’m currently learning: `Data Science` and `Next.js`.
 - :thinking: I’m open for: `An Internship` or a `Freelance Project`.
 - :nerd_face: Learning new things everyday.
 
