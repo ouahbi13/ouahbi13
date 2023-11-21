@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aymane Ouahbi, a passionate Machine Learning Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Web+Developer;Competitive+Programmer;Machine+Learning%20|%20Deep+Learning%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;Freelancer&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -11,11 +11,10 @@
 </p> -->
 
 ## :sassy_man:  About me
-- :school: I am a `second year` `Data Science Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
-- :technologist: I'm passionate about Machine Learning and Deep Learning.
+- :school: A Master's Degree in Applied Mathematics for Machine Learning from Ecole des Mines de Saint-Etienne, and an Engineering Degree in Data Science from National Institute of Posts and Telecommunications (INPT), Rabat, Morocco.
+- :technologist: I'm passionate about Data Science & Machine Learning.
 - :computer: I'm currently into Competitive Programming.
-- :student: I’m currently learning: `Data Science` and `Next.js`.
-- :thinking: I’m open for: `An Internship` or a `Freelance Project`.
+- :thinking: I’m open for: `Freelance Work`.
 - :nerd_face: Learning new things everyday.
 
 <br>
